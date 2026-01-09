@@ -1,0 +1,26 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+.env
+
+# Logs / outputs (generated)
+runs_logs/
+*.log
+
+# Java build artifacts
+classes/
+classes_build/
+*.class
+
+# Temporary / extracted artifacts
+rapport_extracted.txt
+
+# Editor
+.vscode/
+.idea/
